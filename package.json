@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hkasafwat/SinglePageVue#readme",
   "dependencies": {
+    "express": "^4.15.4",
     "vue": "^2.4.2"
   }
 }
