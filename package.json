@@ -1,0 +1,22 @@
+{
+  "name": "SinglePageVue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkasafwat/SinglePageVue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkasafwat/SinglePageVue/issues"
+  },
+  "homepage": "https://github.com/hkasafwat/SinglePageVue#readme",
+  "dependencies": {
+    "vue": "^2.4.2"
+  }
+}
